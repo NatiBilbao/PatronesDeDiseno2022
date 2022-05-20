@@ -1,5 +1,7 @@
 package Tarea1CambioDeMoneda;
+
 import java.util.Scanner;
+
 public class tipoDeCambiosDeMonedas {
     static Scanner entrada = new Scanner(System.in);
 
